@@ -1,4 +1,4 @@
-# typescript-transformer-jsx-remove-data-test-id
+# typescript-transformer-jsx-remove-data-test
 
 Remove `data-test-id` attributes from production builds. Similar to [babel-plugin-jsx-remove-data-test-id](https://github.com/coderas/babel-plugin-jsx-remove-data-test-id)
 
